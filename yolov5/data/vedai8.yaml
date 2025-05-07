@@ -1,0 +1,19 @@
+path: /content/drive/MyDrive/MultiModalFusion/data/VEDAI
+train: fold01_write_test_fixed.txt
+test: fold03_write_test_fixed.txt
+val: fold02_write_test_fixed.txt
+nc: 8
+names:
+- car
+- pickup
+- camping
+- truck
+- other
+- tractor
+- boat
+- van
+
+
+# Change path accordingly if u wanna train or test
+#except the fold*_write_test_fixed files others are used for training
+# done in google colab change path to the one u are using

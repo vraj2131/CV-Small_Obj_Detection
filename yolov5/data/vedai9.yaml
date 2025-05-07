@@ -1,0 +1,16 @@
+# yolov5/data/vedai9.yaml
+path: C:\Users\nithi\OneDrive\Documents\cvprinceton\MultiModalFusion\data\vedai     # change to your VEDAI root
+train: images/train          # train images (relative to `path`)
+val:   images/val            #  val  images (relative to `path`)
+
+nc: 9                        # number of classes
+names:
+  [ 'car',
+    'pick-up',
+    'camping car',
+    'truck',
+    'vehicle',
+    'tractor',
+    'boat',
+    'van',
+    'plane' ]

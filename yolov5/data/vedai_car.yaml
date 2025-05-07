@@ -1,0 +1,9 @@
+# yolov5/data/vedai9.yaml
+path: /content/drive/MyDrive/MultiModalFusion/data/VEDAI     # change to your VEDAI root
+train: fold01_write_test_fixed.txt
+test:  fold03_write_test_fixed.txt          # train images (relative to `path`)
+val:   fold02_write_test_fixed.txt           #  val  images (relative to `path`)
+
+nc: 1                      # number of classes
+names:
+  [ 'car']
