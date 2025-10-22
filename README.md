@@ -208,23 +208,7 @@ This project was developed as part of **COS529 Advanced Computer Vision** course
 - **Model Training**: Hyperparameter tuning, cross-validation
 - **Software Engineering**: Modular design, configuration management
 
-## 🤝 Contributing
 
-This is an academic project. For questions or suggestions, please open an issue.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Ultralytics**: For the excellent YOLOv5 implementation
-- **VEDAI Dataset**: For providing the aerial vehicle detection dataset
-- **COS529 Course**: Advanced Computer Vision course at Princeton University
-
-## 📞 Contact
-
-**AadityaNitin** - [Your Email] - [Your LinkedIn]
 
 Project Link: [Your Repository URL]
 
