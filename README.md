@@ -208,10 +208,6 @@ This project was developed as part of **COS529 Advanced Computer Vision** course
 - **Model Training**: Hyperparameter tuning, cross-validation
 - **Software Engineering**: Modular design, configuration management
 
-
-
-Project Link: [Your Repository URL]
-
 ---
 
 *This project demonstrates advanced computer vision techniques for multi-modal vehicle detection in aerial imagery, showcasing expertise in deep learning, data processing, and model optimization.*
